@@ -4,4 +4,4 @@ Puis, on a fini tous les deux nos codes et on observera le code de l'un et l'aut
 
 RAHARISON Rajoharitiana Ainasoa(STD23011) et RAKOTONIRINA Miharisoa(STD23012).
 
-Pour lancer ce jeux de carte, il suffit d'installer node JS et/ou en utilisant simplement nvm; après tapez simplement cette commande: <mark>node "le nom du fichier qui contient le code".</mark>
+Pour lancer ce jeux de carte, il suffit d'installer node JS via un setup d'installation et/ou en utilisant simplement nvm pour l'installer; après tapez simplement cette commande dans votre terminale: <mark>node "le nom du fichier qui contient le code"</mark>, et appuyez sur entrer pour le lancer. 
